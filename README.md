@@ -1,1 +1,1 @@
-# Project7
+The Smart Traffic Decongestion System leverages state-of-the-art object detection models and real-time video analytics to optimize traffic signal timings dynamically. By analyzing live traffic video feeds, this system generates heatmaps that reflect vehicle densities and adjusts traffic signals to reduce congestion, fuel consumption, and environmental impact. The system utilizes YOLOv8 for vehicle detection and heatmap generation, integrating cutting-edge technologies into adaptive traffic management.
